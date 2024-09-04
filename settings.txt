@@ -1,0 +1,6 @@
+ID: 01
+port: COM1
+baudrate: 9600
+bytesize: 8
+parity: N
+stopbits: 1
